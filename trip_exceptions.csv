@@ -1,0 +1,4 @@
+trip_id,driver_id,driver_cohort,trip_date,app_version,total_miles,payable_miles,beacon_detection_pct,issue,action
+T0010,D012,New,2026-02-08,1.1,16.02,14.45,,Missing beacon detection,Kept for mileage analysis; omit from beacon comparisons
+T0020,D013,New,2026-01-18,1.0,54.44,59.44,70.3,Invalid mileage,Excluded pending source review
+T0030,D005,New,2026-02-10,1.1,10.48,7.24,69.1,Exact duplicate,Excluded extra copy
